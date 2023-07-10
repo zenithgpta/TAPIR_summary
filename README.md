@@ -27,7 +27,6 @@ A model that effectively tracks any queried point on any physical surface throug
 - TAPIR improves over prior works by a large margin, as measured by performance on the TAP-Vid benchmark [12]. On TAP-Vid-DAVIS, TAPIR outperforms TAP-Net by ∼20% while on the more challenging TAP-Vid-Kinetics, TAPIR outperforms PIPs by ∼20%, and substantially reduces its inference runtime
   
 ![TAPIR 3](https://github.com/zenithgpta/TAPIR_summary/assets/113705191/765aa601-9ef7-46d9-b531-9d7004c8ec5a)
-
 ![TAPIR 4-results](https://github.com/zenithgpta/TAPIR_summary/assets/113705191/9d09a0d9-2f88-4eec-8d69-4b1200fa96a0)
 
 ## Our two cents 
